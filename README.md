@@ -1,3 +1,9 @@
+# Psych Engine Community
+
+## What is this?
+
+This is a fork of [Psych Engine 0.7.3](https://github.com/ShadowMario/FNF-PsychEngine/releases/tag/0.7.3) where the community can add (almost) anything they want. If you want to add winning icons, extra keys, stage editor or whatever you can now do that. Please make a pull request if you want to add something and make an issue if you have any uh issues lol. This is a silly idea some of us came up with in the [Psych Engine Discord Server](https://discord.gg/2ka77eMXDv) and I decided to make this a thing because it would be funny and also [Cobalt](https://github.com/CobaltBar) deleted the original fork.
+
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
